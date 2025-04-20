@@ -49,7 +49,7 @@ The model is a sequential neural network with the following architecture:
 ## Setup and Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/parkinsons-detection.git
+git clone https://github.com/yowlshi/Parkinson-Detection-Machine-Learning.git
 cd parkinsons-detection
 ```
 
