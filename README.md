@@ -97,9 +97,6 @@ else:
 - Develop a user-friendly interface for clinicians
 
 
-## Contributors
-Angelo Torrevillas
-
 ## Acknowledgments
 - Dataset providers: Max Little, Oxford University
 - UCI Machine Learning Repository
